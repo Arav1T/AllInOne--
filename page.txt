@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="px-20 space-y-11">
+        <div class="flex justify-between">
+            <div class="space-y-4">
+                <p class="text-8xl">8.4M</p>
+                <p class="w-40 text-xs ml-8">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores, iusto.</p>
+            </div>
+            <div></div>
+            <div class="space-y-4">
+                <p class="text-8xl">7.9M</p>
+                <p class="w-40 text-xs ml-8">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatum, sint?</p>
+            </div>
+            <div>
+                <ul class=" border-l-2 border-black ml-10 text-center">
+                    <li class="pb-3">Lorem, ipsum dolor.</li>
+                    <li class="w-7 ml-5 mb-2 border border-black rounded-full">1</li>
+                    <li class="w-7 ml-5 mb-2 border border-black rounded-full">2</li>
+                    <li class="w-7 ml-5 mb-2 border border-black rounded-full">3</li>
+                    <li class="w-7 ml-5 mb-2 border border-black rounded-full">4</li>
+                    <li class="w-7 ml-5 mb-2 border border-black rounded-full">5</li>
+                </ul>
+            </div>
+        </div>
+        <div class="space-y-3">
+            <p class="text-8xl ml-48">33.6M</p>
+            <p class="w-52 ml-56 text-xs">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab officia sequi perspiciatis aperiam.</p>
+        </div>
+        <div class="grid grid-cols-2">
+            <div>
+                <h1 class="font-bold">Our Footprint</h1>
+                <p class="w-44 ">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laboriosam fuga veritatis architecto,<br> <br> ab ducimus sunt ad quasi similique reprehenderit obcaecati.<br> <br> Dolorem maiores facilis dolor id earum pariatur fugit nobis ad.</p>
+            </div>
+            <div class="mt-6 space-y-4">
+                <div class="space-y-3">
+                    <p class="text-8xl ">8,679</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                </div>
+                <div class="space-y-3">
+                    <p class="text-8xl">373.73</p>
+                    <p>Lorem ipsum dolor sit amet.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
+
+
+
+
+<!-- sir/ma'am in this page i had used tailwind css -->

@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+   .food{
+    @apply  hover:border cursor-pointer h-80 items-center p-4 hover:border-spacing-1 hover:shadow-sm hover:shadow-black hover:border-black 
+      }
+       
+   
+
+@tailwind utilities;
+@layer components{
+  .fadd{
+    @apply border-y snap-center  border-black flex h-40 mr-8 p-4 space-x-20 
+  }
+  .img{
+    @apply w-40 
+  }
+  .add{
+      @apply  cursor-pointer ml-14 border border-black bg-slate-400 
+  }
+}
